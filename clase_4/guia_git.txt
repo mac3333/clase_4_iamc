@@ -1,0 +1,11 @@
+git config --global user.name "Colocan SU NOMBRE"
+git config --global user.email "Colocan SU MAIL"
+git config --list
+
+
+
+git status    #  ( te dice que cambio )
+git add .     # agrego los cambios al branch
+git commit -m "mensjae"   # Agrego mi commit localmente
+git push      # hago push a git-hub
+git pull      # me traigo los cambios
